@@ -1,5 +1,4 @@
 
-
 <!-- ===================== PROFILE BANNER ===================== -->
 
 <p align="center">
@@ -102,28 +101,18 @@
 
 ## 🧑‍💻 LeetCode Stats
 
-
-## 🧑‍💻 LeetCode Stats
-
 <p align="center">
   <a href="https://leetcode.com/u/mahimaa_93/">
     <img
-      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira_Code&cache=0"
-      alt="LeetCode Total Solved Stats"
+      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira+Code&ext=contest"
+      alt="LeetCode Stats"
     />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/u/mahimaa_93/">
-    <img
-      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira_Code&ext=heatmap&cache=0"
-      alt="LeetCode Submission Activity"
-    />
-  </a>
+  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
 </p>
-
-
 
 ---
 
