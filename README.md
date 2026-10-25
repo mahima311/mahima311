@@ -103,25 +103,26 @@
 ## 🧑‍💻 LeetCode Stats
 
 
+## 🧑‍💻 LeetCode Stats
+
 <p align="center">
   <a href="https://leetcode.com/u/mahimaa_93/">
     <img
-      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira+Code&ext=contest&cache=0"
-      alt="LeetCode Stats"
+      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira_Code&cache=0"
+      alt="LeetCode Total Solved Stats"
     />
   </a>
 </p>
 
-
-
-<h3 align="center">📅 LeetCode Activity</h3>
-
 <p align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&ext=heatmap&cache=0"
-    alt="LeetCode Activity Heatmap"
-  />
+  <a href="https://leetcode.com/u/mahimaa_93/">
+    <img
+      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira_Code&ext=heatmap&cache=0"
+      alt="LeetCode Submission Activity"
+    />
+  </a>
 </p>
+
 
 
 ---
