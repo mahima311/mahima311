@@ -102,18 +102,27 @@
 
 ## 🧑‍💻 LeetCode Stats
 
+
 <p align="center">
   <a href="https://leetcode.com/u/mahimaa_93/">
     <img
-      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira+Code&ext=contest"
+      src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&font=Fira+Code&ext=contest&cache=0"
       alt="LeetCode Stats"
     />
   </a>
 </p>
 
+
+
+<h3 align="center">📅 LeetCode Activity</h3>
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=leetcode&theme=dark" />
+  <img
+    src="https://leetcard.jacoblin.cool/mahimaa_93?theme=dark&ext=heatmap&cache=0"
+    alt="LeetCode Activity Heatmap"
+  />
 </p>
+
 
 ---
 
